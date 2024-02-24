@@ -1,0 +1,47 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+html, body{
+    height: 100%;
+    width: 100%;
+    background-color: rgb(186, 186, 186);
+}
+
+#title{
+    margin: 20px;
+    margin-top: 30px;
+    text-align: center;
+    text-decoration: underline;
+}
+
+img{
+    display: block;
+    width: 70%;
+    margin: auto;
+}
+
+#caption{
+    font-size: 20px;
+    text-align: center;
+    font-weight: normal;
+    margin-top: 10px;
+}
+
+#title-vk{
+    text-align: center;
+    color: antiquewhite;
+    margin-bottom: 10px;
+}
+
+div#tribute-data{
+    margin-top: 10px;
+    margin-right: 25px;
+    margin-left: 0px;
+    padding: 25px;
+    background-color: rgba(90, 173, 126, 0.25);
+    box-shadow: 20px 0px 15px #96c996;
+}
